@@ -1,0 +1,17 @@
+{
+    "name": "llbbl/tapfiliate-php",
+    "authors": [
+        {
+            "name": "LegacyBetaDev",
+            "email": "developers@legacybeta.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LegacyBeta\\Tapfiliate\\": "src/"
+        }
+    }
+}
