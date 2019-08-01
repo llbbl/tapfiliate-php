@@ -1,0 +1,46 @@
+{
+    "id": 2807860,
+    "created_at": "2019-05-06T09:24:55+00:00",
+    "click": {
+        "created_at": "2019-05-06T09:22:22+00:00",
+        "referrer": null,
+        "landing_page": "http://somesite.com/"
+    },
+    "affiliate_meta_data": null,
+    "program": {
+        "id": "no",
+        "title": "Affiliate Program",
+        "currency": "USD"
+    },
+    "affiliate": {
+        "id": "foobar",
+        "firstname": "Foo1",
+        "lastname": "Bar1"
+    },
+    "warnings": null,
+    "customer": null,
+    "external_id": "PAR453277X",
+    "amount": 1.5,
+    "commissions": [
+        {
+            "kind": "regular",
+            "affiliate": {
+                "id": "foobar",
+                "firstname": "Foo1",
+                "lastname": "Bar1"
+            },
+            "currency": "USD",
+            "id": 4050887,
+            "created_at": "2019-05-06T09:24:55+00:00",
+            "payout": null,
+            "commission_type": "standard",
+            "approved": null,
+            "amount": 123,
+            "comment": "foobar",
+            "conversion_sub_amount": 50.8
+        }
+    ],
+    "meta_data": {
+        "foo": "bar"
+    }
+}

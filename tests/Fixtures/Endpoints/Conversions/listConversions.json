@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "external_id": "Di4Hjskdns93",
+    "amount": 17.95,
+    "click": {
+      "created_at": "2015-03-03T12:39:19+0100",
+      "referrer": "https://awesome-affiliate-site.com/",
+      "landing_page": "https://your-site.com/landing/"
+    },
+    "commissions": [
+      {
+        "id": 602,
+        "conversion_sub_amount": 50,
+        "amount": 5,
+        "commission_type": "level-2",
+        "approved": false,
+        "affiliate": {
+          "id": "johndoe",
+          "firstname": "John",
+          "lastname": "Doe"
+        },
+        "kind": "level"
+      },
+      {
+        "id": 582,
+        "conversion_sub_amount": 100,
+        "amount": 10,
+        "commission_type": "standard",
+        "approved": true,
+        "affiliate": {
+          "id": "chucknorris1",
+          "firstname": "Chuck",
+          "lastname": "Norris"
+        },
+        "kind": "regular"
+      }
+    ],
+    "program": {
+      "id": "my-program",
+      "title": "My Program",
+      "currency": "USD"
+    },
+    "affiliate": {
+      "id": "chucknorris1",
+      "firstname": "Chuck",
+      "lastname": "Norris"
+    },
+    "customer": {
+      "id": "cu_eXampl3",
+      "customer_id": "USER123",
+      "status": "active"
+    },
+    "meta_data": {
+      "foo": "bar"
+    }
+  }
+]

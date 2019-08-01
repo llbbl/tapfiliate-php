@@ -1,0 +1,20 @@
+{
+  "kind": "regular",
+  "affiliate": {
+    "id": "foobar",
+    "firstname": "Foo1",
+    "lastname": "Bar1"
+  },
+  "currency": "USD",
+  "id": 1027047,
+  "created_at": "2019-05-10T05:50:56+00:00",
+  "conversion": {
+    "id": 1791541
+  },
+  "payout": null,
+  "commission_type": "standard",
+  "approved": null,
+  "amount": 0,
+  "comment": null,
+  "conversion_sub_amount": 0
+}
