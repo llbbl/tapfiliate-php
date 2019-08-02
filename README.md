@@ -8,12 +8,12 @@ This library was created to support the 1.6 version of the API, so previous API 
 
 Endpoint | Support
 --- | ---
-Customers |  <ul><li>[ ] </li></ul>
-Conversions | <ul><li>[x] </li></ul>
-Comissions | <ul><li>[x] </li></ul>
-Affiliates | <ul><li>[ ] </li></ul>
-Programs | <ul><li>[ ] </li></ul>
-Payments | <ul><li>[ ] </li></ul>
+Customers |  <ul><li>[ ] No</li></ul>
+Conversions | <ul><li>[x] Yes</li></ul>
+Comissions | <ul><li>[x] Yes</li></ul>
+Affiliates | <ul><li>[ ] No</li></ul>
+Programs | <ul><li>[ ] No</li></ul>
+Payments | <ul><li>[ ] No</li></ul>
 
 There are Framework Specific libraries for Laravel and Symfony
 
