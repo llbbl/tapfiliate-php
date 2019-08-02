@@ -1,5 +1,10 @@
 {
     "name": "llbbl/tapfiliate-php",
+    "type": "library",
+    "description": "Tapfiliate API PHP library",
+    "keywords": [],
+    "homepage": "https://tapfiliate.com",
+    "license": "MIT",
     "authors": [
         {
             "name": "LegacyBetaDev",
